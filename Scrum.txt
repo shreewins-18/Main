@@ -1,0 +1,11 @@
+Scrum terminologies
+Scrum people
+Scrum Ceremonies
+Scrum Principles and values and pillars
+
+Agile Methodology:
+
+Agile means “incremental, allowing teams to develop projects in small increments".
+Examples of Agile methodology frameworks: Kanban, Extreme Programming
+Scrum is one of the many types of agile methodology,
+known for breaking projects down into sizable chunks called “sprints.”
